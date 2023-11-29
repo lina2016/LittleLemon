@@ -115,14 +115,20 @@ label {
     display: block;
   }
 
-input{
+input {
     width: 80%;
     display: block;
     padding: .5rem 1rem;
     line-height: 1.5rem;
     box-sizing: border-box;
 }
-
+select {
+    width: 80%;
+    display: block;
+    padding: .5rem 1rem;
+    line-height: 1.5rem;
+    box-sizing: border-box;
+}
 #button {
     padding: .5rem 1rem;
     border: 1px solid #495E57;
